@@ -1,4 +1,4 @@
-<img src="https://github.com/daoodaba975/daoodaba975/raw/master/assets/header.png"/>
+<!-- /<img src="https://github.com/daoodaba975/daoodaba975/raw/master/assets/header.png"/> -->
 <h1 align="center">Hi 👋, I'm Ibrahima Diama Ka</h1>
 <h3 align="center">A passionate Software Engineer from Koumpentoum,Senegal with 3 years of experience working in the field of web and mobile development Currently working full-time remote,I speak Javascript very well with a good knowledge of the ecosystem and I like to write elegant and powerful code</h3>
 
