@@ -8,11 +8,11 @@
 
 <p align="center"> <a href="https://twitter.com/agent_smith_sn" target="blank"><img src="https://img.shields.io/twitter/follow/agent_smith_sn?logo=twitter&style=for-the-badge" alt="agent_smith_sn" /></a> </p>
 
-- 🔭 I’m currently working on [Bundlee](https://bundlee.app/)
+- 🔭 I’m currently working on [TooShare](https://www.tooshare.com/)
 
 - 🌱 I’m currently learning **Go,Web Architecture**
 
-- 👯 I’m looking to collaborate on [Open Fn](https://www.openfn.org/)
+- 👯 I’m looking to collaborate on [Node ts startter](https://github.com/JoeDalton24/node-ts-starter)
 
 - 💬 Ask me about **Node,JavaScript,React,MongoDb,MySQL**
 
