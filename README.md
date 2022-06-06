@@ -6,7 +6,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joedalton24" alt="joedalton24" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/agent_smith_sn" target="blank"><img src="https://img.shields.io/twitter/follow/agent_smith_sn?logo=twitter&style=for-the-badge" alt="agent_smith_sn" /></a> </p>
+<p align="center"> <a href="https://twitter.com/khalilhibou" target="blank"><img src="https://img.shields.io/twitter/follow/khalilhibou?logo=twitter&style=for-the-badge" alt="Khalilhibou" /></a> </p>
 
 - 🔭 I’m currently working on [TooShare](https://www.tooshare.com/)
 
