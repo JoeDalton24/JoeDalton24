@@ -1,6 +1,6 @@
 <!-- /<img src="https://github.com/daoodaba975/daoodaba975/raw/master/assets/header.png"/> -->
 <h1 align="center">Hi 👋🏾, I'm Ibrahima Diama Ka</h1>
-<h3 align="center">A passionate Software Engineer from Dakar,Senegal with 3 years of experience working in the field of web and mobile development Currently working partial-time remote,I speak Javascript very well with a good knowledge of the ecosystem and I like to write elegant and performant code</h3>
+<h3 align="center">A passionate Software Engineer from Dakar,Senegal with over 4 years of experience working in the field of web and mobile development Currently working partial-time remote,I speak Javascript very well with a good knowledge of the ecosystem and I like to write elegant and performant code</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=joedalton24&label=Profile%20views&color=0e75b6&style=flat" alt="joedalton24" /> </p>
 
