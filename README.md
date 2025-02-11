@@ -2,17 +2,15 @@
 <h1 align="center">Hi 👋🏾, I'm Ibrahima Diama Ka</h1>
 <h3 align="center">A passionate Software Engineer from Dakar,Senegal with over 4 years of experience working in the field of web and mobile development Currently working partial-time remote,I speak Javascript very well with a good knowledge of the ecosystem and I like to write elegant and performant code</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=joedalton24&label=Profile%20views&color=0e75b6&style=flat" alt="joedalton24" /> </p>
+<!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=joedalton24&label=Profile%20views&color=0e75b6&style=flat" alt="joedalton24" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joedalton24" alt="joedalton24" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/khalilhibou" target="blank"><img src="https://img.shields.io/twitter/follow/khalilhibou?logo=twitter&style=for-the-badge" alt="Khalilhibou" /></a> </p>
+<p align="center"> <a href="https://twitter.com/khalilhibou" target="blank"><img src="https://img.shields.io/twitter/follow/khalilhibou?logo=twitter&style=for-the-badge" alt="Khalilhibou" /></a> </p> -->
 
-- 🔭 I’m currently working on [TooShare](https://www.tooshare.com/)
+- 🔭 I’m currently working on [ChargeGuru](https://chargeguru.com/)
 
-- 🌱 I’m currently learning **Go,Web Architecture**
-
-- 👯 I’m looking to collaborate on [Node ts startter](https://github.com/JoeDalton24/node-ts-starter)
+- 🌱 I’m currently learning **Go,Web Architecture DSA**
 
 - 💬 Ask me about **Node,JavaScript,React,MongoDb,MySQL**
 
